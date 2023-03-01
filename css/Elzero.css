@@ -1138,7 +1138,7 @@ position: relative;
     font-size: 13px;
     border-top: 1px solid #ccc;
 }
-.latestevents .info .time .unit span:last-child:hover{
+.latestevents .info .time .unit:hover span{
     border-color: var(--main-color);
 }
 .latestevents .container .title{
